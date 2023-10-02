@@ -94,10 +94,6 @@ bottom: -1px;
 }
 
 .nav-item-link {
-padding: 24px 0;
-}
-
-.nav-item-link {
 color: #2E2F42;
 font-size: 16px;
 font-weight: 500;
@@ -106,6 +102,7 @@ letter-spacing: 0.02em;
 transition-property: color;
 transition-duration: 250ms;
 transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+padding: 24px 0;
 }
 
 .nav-item-link_one {
@@ -156,6 +153,7 @@ color: #404bbf;
 /* Section1 */
 .section_one{
 max-width: 1440px;
+margin: 0 auto;
 background-color: #2E2F42;
 background-image: 
 linear-gradient(
